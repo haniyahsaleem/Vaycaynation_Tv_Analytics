@@ -1,4 +1,4 @@
-# VaycayNation: TV Campaign Performance Analytics
+# ✈️ VaycayNation: TV Campaign Performance Analytics
 
 **Harvard Business School Case Study | MSc Business Analytics, Qatar University**
 
