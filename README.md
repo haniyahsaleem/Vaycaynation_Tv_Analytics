@@ -26,7 +26,7 @@ website traffic lift from TV advertising to inform summer campaign strategy.
 4. Target Romance and Family programme genres for highest lift
 
 ## Files
-- [`outputs/vaycaynation_campaign_analytics.pptx`](outputs/vaycaynation_campaign_analytics.pptx) 
+- [vaycaynation_campaign_analytics.pptx`](vaycaynation_campaign_analytics.pptx) 
 — Full analysis and recommendations deck
 
 ## Note on Data
