@@ -33,16 +33,16 @@ Objective: identify what drives incremental website traffic lift from TV adverti
 ## 📊 Selected Analysis Outputs
 
 ### Campaign Performance Overview (123 airings, avg. lift = 68.7)
-![Campaign Overview](images/campaign_overview.png)
+![Campaign Overview](images/campaign_overview.jpeg)
 
 ### Key Drivers of Traffic Lift (ANOVA Insights)
-![ANOVA Insights](images/anova_insights.png)
+![ANOVA Insights](images/anova_insights.jpeg)
 
 ### Optimised Media Strategy (Managerial Implications)
-![Managerial Implications](images/managerial_implications.png)
+![Managerial Implications](images/managerial_implications.jpeg)
 
 ### Projected Campaign Impact (€6,300 per airing)
-![Revenue Impact](images/revenue_impact.png)
+![Revenue Impact](images/revenue_impact.jpeg)
 
 ---
 
